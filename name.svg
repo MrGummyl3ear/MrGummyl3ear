@@ -4,7 +4,7 @@
         <![CDATA[
         text {
             filter: url(#filter);
-            fill: gray; /* Changed text color to gray */
+            fill: white; /* Changed text color to gray */
             font-family:'Old English Text MT', cursive;
             font-size: 100px;
             -webkit-font-smoothing: antialiased;
