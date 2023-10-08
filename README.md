@@ -1,11 +1,14 @@
 ### Hi there 👋
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h1 align="center">
   <img src="MrGummy-3ear-08-10-2023.gif" alt="MrGummyl3ear" />
 </h1>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
+=======
+>>>>>>> parent of 16c65f7 (Update README.md)
 =======
 >>>>>>> parent of 16c65f7 (Update README.md)
 
