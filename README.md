@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MrGummyl3ear/MrGummyl3ear/master/name.svg" alt="MrGummyl3ear" />
+</h1>
+
 ### Hi there 👋
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
