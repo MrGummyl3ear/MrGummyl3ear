@@ -9,6 +9,20 @@ Living in Moscow, Russia
 
 
 ## I’m currently working with
+
+<h3 align="left">Program Languages:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
+
 ### Python
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
@@ -24,6 +38,20 @@ Living in Moscow, Russia
 ![seaborn](https://img.shields.io/badge/seaborn-%237db0bc.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/static/v1?style=for-the-badge&message=Plotly&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=)
 
+<h3 align="left">SQL:</h3>
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="70" height="70"/>
+  </a>
+</p>
+
+
 ### Other tools
 
 ![sqlite](https://img.shields.io/badge/sqlite-%233ea2d8.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -37,6 +65,13 @@ Living in Moscow, Russia
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/bear666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bear666" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/maoliser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="maoliser" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user5871d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5871d" height="30" width="40" /></a>
+</p>
 
 <!--
 **MrGummyl3ear/MrGummyl3ear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
