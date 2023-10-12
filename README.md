@@ -32,7 +32,6 @@ Living in Moscow, Russia
 ![tableau](https://img.shields.io/badge/tableau-%236a8bbb.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![Microsoft Access](https://img.shields.io/static/v1?style=for-the-badge&message=Access&color=A4373A&logo=Microsoft+Access&logoColor=FFFFFF&label=)
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
-![Jira Software](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira+Software&logoColor=FFFFFF&label=)
 
 ## I’m currently learning
 
