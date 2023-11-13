@@ -61,9 +61,11 @@ Living in Moscow, Russia
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
 
 ## I’m currently learning
-
+<div>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -71,6 +73,12 @@ Living in Moscow, Russia
 <a href="https://kaggle.com/bear666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bear666" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/maoliser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="maoliser" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user5871d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5871d" height="30" width="40" /></a>
+<a href="https://vk.com/i.beraya">
+    <img align="center" src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white" height="30" width="60" alt="VK"/>
+</a>
+<a href="https://t.me/Beraya_Aliko">
+    <img align="center" src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=?logoColor=blue" height="30" width="60" alt="Telegram"/>
+</a>
 </p>
 
 <!--
