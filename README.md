@@ -60,6 +60,10 @@ Living in Moscow, Russia
 ![Microsoft Access](https://img.shields.io/static/v1?style=for-the-badge&message=Access&color=A4373A&logo=Microsoft+Access&logoColor=FFFFFF&label=)
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGummyl3ear)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 ## I’m currently learning
 <div>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
