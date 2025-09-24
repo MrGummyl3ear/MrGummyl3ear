@@ -5,7 +5,7 @@
 ### Hi there 👋
 I`m a Junior (Intern) Data Scientist/Backend developer.
 
-Living in Moscow, Russia
+Living in London, UK
 
 
 ## I’m currently working with
@@ -74,7 +74,7 @@ Living in Moscow, Russia
 
 ## My GitHub
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrGummyl3ear&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrGummyl3ear&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=shaderlab" alt="ovi" />
 
 
 <h3 align="left">Connect with me:</h3>
