@@ -74,7 +74,7 @@ Living in London, UK
 
 ## My GitHub
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrGummyl3ear&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=shaderlab,cmake" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrGummyl3ear&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=shaderlab,cmake,hlsl" alt="ovi" />
 
 
 <h3 align="left">Connect with me:</h3>
